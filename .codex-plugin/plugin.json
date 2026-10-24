@@ -1,0 +1,21 @@
+{
+  "name": "standard-operating-procedures",
+  "version": "0.1.0",
+  "description": "Engineering procedures for coding agents: host tooling, language, and git.",
+  "author": {
+    "name": "Tristan Ross",
+    "email": "spaceboyross@gmail.com"
+  },
+  "homepage": "https://git.lilithsemi.com/LilithSemi/standard-operating-procedures",
+  "repository": "https://git.lilithsemi.com/LilithSemi/standard-operating-procedures",
+  "license": "Apache-2.0",
+  "keywords": ["skills", "tooling", "nix", "git", "comments"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Standard Operating Procedures",
+    "shortDescription": "Engineering procedures for coding agents",
+    "developerName": "LilithSemi",
+    "category": "Developer Tools",
+    "capabilities": ["Read", "Write"]
+  }
+}

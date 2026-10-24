@@ -1,0 +1,16 @@
+{
+  "name": "lilithsemi",
+  "description": "LilithSemi plugins for coding agents",
+  "owner": {
+    "name": "Tristan Ross",
+    "email": "spaceboyross@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "standard-operating-procedures",
+      "description": "Engineering procedures for coding agents: host tooling, language, and git.",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}
